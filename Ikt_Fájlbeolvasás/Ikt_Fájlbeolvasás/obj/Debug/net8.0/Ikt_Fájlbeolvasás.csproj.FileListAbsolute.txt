@@ -1,0 +1,14 @@
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\bin\Debug\net8.0\Ikt_Fájlbeolvasás.exe
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\bin\Debug\net8.0\Ikt_Fájlbeolvasás.deps.json
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\bin\Debug\net8.0\Ikt_Fájlbeolvasás.runtimeconfig.json
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\bin\Debug\net8.0\Ikt_Fájlbeolvasás.dll
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\bin\Debug\net8.0\Ikt_Fájlbeolvasás.pdb
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\Ikt_Fájlbeolvasás.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\Ikt_Fájlbeolvasás.AssemblyInfoInputs.cache
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\Ikt_Fájlbeolvasás.AssemblyInfo.cs
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\Ikt_Fájlbeolvasás.csproj.CoreCompileInputs.cache
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\Ikt_Fájlbeolvasás.dll
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\refint\Ikt_Fájlbeolvasás.dll
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\Ikt_Fájlbeolvasás.pdb
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\Ikt_Fájlbeolvasás.genruntimeconfig.cache
+C:\Users\kelemen.panna\source\repos\Ikt_Fájlbeolvasás\Ikt_Fájlbeolvasás\obj\Debug\net8.0\ref\Ikt_Fájlbeolvasás.dll
